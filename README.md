@@ -1,5 +1,8 @@
-# xuiblocklist
-XUI出口设置域名黑名单
+### 3XUI设置域名黑名单
+进入3XUI后台，xray设置--高级配置--路由规则，把下面代码插入到所有"outboundTag": "blocked"之后
+<br>
+[![图片](https://img.youtube.com/vi/4kOzhqo_Bzs/0.jpg)]
+<br>
 
 ```
 {

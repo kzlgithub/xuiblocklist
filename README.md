@@ -1,7 +1,7 @@
 ### 3XUI设置域名黑名单
 进入3XUI后台，xray设置--高级配置--路由规则，把下面代码插入到所有"outboundTag": "blocked"之后
 <br>
-[![图片](https://img.youtube.com/vi/4kOzhqo_Bzs/0.jpg)]
+![图片描述](20260515165851.png)
 <br>
 
 ```
